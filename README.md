@@ -20,7 +20,7 @@ A Retrieval-Augmented Generation (RAG) pipeline that allows users to upload docu
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <(https://github.com/siddharthcode-24/rag-pipeline)>
 cd rag-pipeline
 ```
 
