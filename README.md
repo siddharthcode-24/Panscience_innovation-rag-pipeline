@@ -169,3 +169,9 @@ ports:
 - Verify your API key is correct
 - Check you have sufficient credits
 - Ensure proper internet connectivity
+
+##Output
+<img width="1896" height="957" alt="image" src="https://github.com/user-attachments/assets/509f746d-3746-4c52-ac21-ad80e1fa8e42" />
+<img width="1876" height="982" alt="image 2" src="https://github.com/user-attachments/assets/8c85442b-431f-4036-b022-453dacb5f517" />
+
+
